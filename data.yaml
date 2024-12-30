@@ -1,0 +1,5 @@
+train: /home/emre123/detect/data/train/images
+val: /home/emre123/detect/data/test/images
+
+nc: 1
+names: ['pothole']
