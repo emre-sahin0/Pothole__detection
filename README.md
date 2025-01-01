@@ -24,7 +24,8 @@ Users can upload an image to perform pothole detection.
 
 <img width="948" alt="main_page" src="https://github.com/user-attachments/assets/a8f1c1f6-3265-4eae-b344-1901c1ae5e36" />
 
- 
+ <img width="960" alt="{B1B51710-7FC7-4FD5-8915-A2F8903EB9AC}" src="https://github.com/user-attachments/assets/20d56a88-fbc4-46fe-9e0b-5859b5ed27c3" />
+
  
  
 
