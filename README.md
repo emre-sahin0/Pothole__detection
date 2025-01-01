@@ -25,19 +25,7 @@ Users can upload an image to perform pothole detection.
 <img width="948" alt="main_page" src="https://github.com/user-attachments/assets/a8f1c1f6-3265-4eae-b344-1901c1ae5e36" />
 
  
-
-File Upload Result 
-
-Uploaded image with detected potholes. 
-
  
-
-Live Camera Stream 
-
-Real-time detection of potholes through the camera stream. 
-
- 
-
  
 
 🚀 Requirements 
